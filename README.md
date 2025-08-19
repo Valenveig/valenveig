@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="[[https://i.ibb.co/5MZ0kYk/github-banner.png](https://png.pngtree.com/background/20210710/original/pngtree-purple-ray-light-strip-minimalist-banner-background-picture-image_1051495.jpg](https://png.pngtree.com/background/20210710/original/pngtree-purple-ray-light-strip-minimalist-banner-background-picture-image_1051495.jpg))" alt="Banner Valen" style="border-radius: 20px;" />
+  <img src="[https://i.ibb.co/5MZ0kYk/github-banner.png](https://pt.pngtree.com/freebackground/purple-ray-light-strip-minimalist-banner-background_1051495.html)" alt="Banner Valen" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">💜 Oi, eu sou a Valen!</h1>
@@ -51,7 +51,8 @@ Minha missão é transformar **ideias em experiências digitais** que conectam p
 ## 💌 Onde me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/valenveig/">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 12px;" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 12px;" />
+  </a>
 </p>
 
 ---
