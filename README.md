@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="[https://i.ibb.co/5MZ0kYk/github-banner.png](https://png.pngtree.com/background/20210710/original/pngtree-purple-ray-light-strip-minimalist-banner-background-picture-image_1051495.jpg)" alt="Banner Valen" style="border-radius: 20px;" />
+  <img src="[[https://i.ibb.co/5MZ0kYk/github-banner.png](https://png.pngtree.com/background/20210710/original/pngtree-purple-ray-light-strip-minimalist-banner-background-picture-image_1051495.jpg](https://png.pngtree.com/background/20210710/original/pngtree-purple-ray-light-strip-minimalist-banner-background-picture-image_1051495.jpg))" alt="Banner Valen" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">💜 Oi, eu sou a Valen!</h1>
