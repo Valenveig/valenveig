@@ -13,11 +13,32 @@ Adoro unir **design e código** para transformar ideias em experiências digitai
 ---
 
 ## 🚀 Skills
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 20px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 20px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 20px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="border-radius: 20px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 20px; margin: 2px;"/>
+## 🚀 Skills
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-6C63FF?style=for-the-badge&logo=html5&logoColor=white" 
+           style="border-radius: 12px; padding: 5px; width:120px; height:120px;"/>
+      <p>HTML5</p>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-6C63FF?style=for-the-badge&logo=css3&logoColor=white" 
+           style="border-radius: 12px; padding: 5px; width:120px; height:120px;"/>
+      <p>CSS3</p>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=black" 
+           style="border-radius: 12px; padding: 5px; width:120px; height:120px;"/>
+      <p>JavaScript</p>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-6C63FF?style=for-the-badge&logo=react&logoColor=black" 
+           style="border-radius: 12px; padding: 5px; width:120px; height:120px;"/>
+      <p>React</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
